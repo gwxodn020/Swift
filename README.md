@@ -1,6 +1,6 @@
-#Swift 공부
+# Swift 공부
 
-##ContentView.swift
+## ContentView.swift
 
 import SwiftUI
 SwiftUI 프레임워크를 불러오는 코드이다
@@ -20,7 +20,7 @@ some View는 Swift 5.1부터 나온 문법인데
 
 ---
 
-##UseState
+## UseState
 
 @State private var message = "Hi"
 @State는 여기있는 변수값이 바뀌면 다시 화면에 그려주는것이다
@@ -43,6 +43,6 @@ message = "bye"은 버튼을 누르면 message값을 bye로 바꾸는 것이다
 
 ---
 
-##TextField
+## TextField
 
 
