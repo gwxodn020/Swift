@@ -6,6 +6,6 @@ struct ContentView : View{
             .padding()
     }
 }
-#Preview{ // 미리보기
+#Preview{ 
     ContentView()
 }
