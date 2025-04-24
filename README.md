@@ -7,6 +7,7 @@
 - [TextField](study1/third/TextField.swift)
 - [IF](study1/fourth/If.swift)
 - [Navigation](study1/fifth/FirstView.swift)
+- [Todo](study/sixth/TodoList.swift)
 
 <!--git add .-->
 <!--git commit -m "commit"-->
