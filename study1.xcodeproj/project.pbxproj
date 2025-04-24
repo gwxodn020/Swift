@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EA26485A2DB9D162006546D1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EA2648592DB9D15B006546D1 /* README.md */; };
+		EA2648622DB9E627006546D1 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EA2648612DB9E624006546D1 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		EA26483D2DB9B9D4006546D1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +32,8 @@
 		EA26482C2DB9B9D3006546D1 /* study1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = study1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA26483C2DB9B9D4006546D1 /* study1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = study1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA2648462DB9B9D4006546D1 /* study1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = study1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA2648592DB9D15B006546D1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EA2648612DB9E624006546D1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +82,8 @@
 		EA2648232DB9B9D3006546D1 = {
 			isa = PBXGroup;
 			children = (
+				EA2648612DB9E624006546D1 /* .gitignore */,
+				EA2648592DB9D15B006546D1 /* README.md */,
 				EA26482E2DB9B9D3006546D1 /* study1 */,
 				EA26483F2DB9B9D4006546D1 /* study1Tests */,
 				EA2648492DB9B9D4006546D1 /* study1UITests */,
@@ -212,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA2648622DB9E627006546D1 /* .gitignore in Resources */,
+				EA26485A2DB9D162006546D1 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

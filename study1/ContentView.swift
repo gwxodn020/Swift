@@ -1,24 +1,11 @@
-//
-//  ContentView.swift
-//  study1
-//
-//  Created by 권태우 on 4/24/25.
-//
-
 import SwiftUI
 
-struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+struct ContentView : View{
+    var body : some View{
+        Text("Hello World")
+            .padding()
     }
 }
-
-#Preview {
+#Preview{ // 미리보기
     ContentView()
 }
