@@ -2,10 +2,10 @@
 
 # Swift 공부 목차
 
-- [Hello](first/ContentView.swift)
-- [UseState](second/UseState.swift)
-- [TextField](third/TextField.swift)
-- [IF](fourth/If.swift)
+- [Hello](study1/first/ContentView.swift)
+- [UseState](study1/second/UseState.swift)
+- [TextField](study1/third/TextField.swift)
+- [IF](study1/fourth/If.swift)
 
 
 <!--git add .-->
