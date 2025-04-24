@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView2: View {
+struct Textr: View {
     @State private var name = ""
 
     var body: some View {
@@ -17,5 +17,5 @@ struct ContentView2: View {
 }
 
 #Preview {
-    ContentView2()
+    Textr()
 }

@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView1 : View {
+struct State : View {
     @State private var message = "Hi"
     var body : some View {
         VStack(spacing:20){
@@ -15,5 +15,5 @@ struct ContentView1 : View {
 }
 
 #Preview{
-    ContentView1()
+    State()
 }
