@@ -54,12 +54,13 @@ spacing:20은 각 요소 사이에 20pt의 간격을 주는 것이다
 
 .font(.title)은 글자 크기를 제목 크기로 설정해 더 크게 보여줍니다  
 
-
+'''swift
 Button("Click") {
 
     message = "bye"
     
 }
+'''
 
 버튼 텍스트에는 Click을 표시한다  
 
