@@ -6,7 +6,7 @@
 - [UseState](study1/second/UseState.swift)
 - [TextField](study1/third/TextField.swift)
 - [IF](study1/fourth/If.swift)
-- [Navigation](study/fifth/FirstView.swift)
+- [Navigation](study1/fifth/FirstView.swift)
 
 <!--git add .-->
 <!--git commit -m "commit"-->
